@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../game"
+		},
+		{
+			"path": "../../../../../assignment"
+		},
+		{
+			"path": "../../../../../Space"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
