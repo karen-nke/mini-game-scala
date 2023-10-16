@@ -24,17 +24,7 @@ Flyin Doge is a single-player game developed in Scala using the SBT (Simple Buil
    - Menu bar for game control, music, and volume adjustments.
    - Rules and controls popup for player guidance.
 
-## Requirements
 
-1. Player can control Doge's height with the spacebar.
-2. Display Doge, Obstacle, Score, Bonus, Heart, and Menu bar.
-3. Detect collision between Doge and Obstacle.
-4. Add score when Doge passes an obstacle.
-5. Deduct hearts if Doge collides with obstacles.
-6. Add hearts and extra scores for collecting bonuses.
-7. Progress to the second round after passing the first.
-8. Display "lose page" if hearts are exhausted.
-9. Display "congrats page" upon completing the game.
 
 ## Design
 
@@ -54,6 +44,38 @@ Flyin Doge is a single-player game developed in Scala using the SBT (Simple Buil
   - Start Game button.
   - Music controls.
   - Help menu with rules and controls.
+ 
+- **Stages:**
+  - Stage 1
+    
+    <img width="597" alt="Doge Stage 1" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/18dd49e3-bb55-43a1-bdde-aa6841dd113b">
+
+  - Stage 2
+    
+    <img width="596" alt="Doge Stage 2" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/bf0a8079-5073-40d3-9251-9a3d3a29cf7a">
+ 
+- **Congrats & Lose Page:**
+  - When player passed the stage
+    
+    <img width="516" alt="Doge Congrats" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/539b97e3-8f06-470b-b875-672b7c0fdc47">
+    
+  - When player lose the stage
+    
+    <img width="516" alt="Doge Lose" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/be388604-94ca-48ef-a2c5-f1fe6fcce0fc">
+    
+- **Utilities:**
+Menu bar for game control, music, and volume adjustments
+
+<img width="473" alt="Doge General" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/96bdd477-7015-4d15-90ef-ae8b2483b6f7">
+<br>
+
+<img width="445" alt="Doge Help" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/1cc07dcb-47cd-4eb5-8bf1-a41cb48d23d0">
+
+<br>
+
+<img width="480" alt="Doge Rules" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/c29d7486-92ed-47a3-8942-c11914042771">
+
+<img width="481" alt="Doge Control" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/884bca64-11d0-4f27-a305-7f731dcf6563">
 
 
 ## How to Run
