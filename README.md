@@ -45,6 +45,11 @@ Flyin Doge is a single-player game developed in Scala using the SBT (Simple Buil
 - **Bonus:** Collectible for extra points.
 
 ### Interface
+
+-**Home Page:**
+
+<img width="516" alt="Doge Homepage" src="https://github.com/karen-nke/mini-game-scala/assets/103889430/977fade4-a9fc-4ca9-8fda-52dfcf630fbe">
+
 - **Menu Bar:**
   - Start Game button.
   - Music controls.
