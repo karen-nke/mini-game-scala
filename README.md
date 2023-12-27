@@ -89,5 +89,7 @@ Menu bar for game control, music, and volume adjustments
 
 Enjoy playing Flyin Doge!
 
+_Coursework for PRG2104 Object Oriented Programming (August 2021 - December 2021)_
+
 ---
 
